@@ -15,8 +15,8 @@
   background: rgb(28,67,112);
 }
 
-.page_title_bg{
-  background: url('../images/srm.jpg');
+.page_title_bg {
+  background: url('{% static "assets/images/srm.JPG" %}');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
