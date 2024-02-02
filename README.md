@@ -54,6 +54,13 @@ There are three Character of use:
 </ol>
 
 
+<h3>Use Case Diagram</h3>
+<img src="usecase.png">
+
+<h3>Class Diagram</h3>
+<img src="classdiagram.png">
+
+
 
 
 
