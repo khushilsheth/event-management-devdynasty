@@ -53,18 +53,6 @@ There are three Character of use:
 	<li>University Authority</li>
 </ol>
 
-<h3>2.4 Operating Environment</h3>
-<p>For accessing this system user need a modern browser of a PC, tab or mobile phone with any operating system.</p>
-
-
-<h2>Appendix A: Analysis Models:</h2>
-
-<h3>Use Case Diagram</h3>
-<img src="screenshot/usecase.png">
-
-<h3>Class Diagram</h3>
-<img src="screenshot/classdiagram.png">
-
 
 
 

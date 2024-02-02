@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Your Registered Events</h2>
+  {% if registered_events %}
+    <ul>
+      {% for registration in registered_events %}
+        <li>{{ registration.event.eventname }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>You haven't registered for any events yet.</p>
+  {% endif %}
+{% endblock %}
